@@ -1,0 +1,45 @@
+[
+  {
+    "title": "Therapeutic Games",
+    "img": "https://cdn-icons-png.flaticon.com/512/5266/5266032.png",
+    "description": "Interactive games designed to promote mental well-being.",
+    "items": ["Memory Booster", "Creative Canvas"],
+    "links": ["/memory-match", "/draw"]
+  },
+  {
+    "title": "Community",
+    "img": "https://cdn-icons-png.flaticon.com/512/3090/3090423.png",
+    "description": "Join our supportive network to connect with others on your mental well-being journey.",
+    "items": ["Support Circles", "Peer Chat"],
+    "links": ["/support-groups", "/chat"]
+  },
+  {
+    "title": "Learning Center",
+    "img": "https://cdn-icons-png.flaticon.com/512/4185/4185714.png",
+    "description": "Discover valuable information on coping mechanisms and cognitive-behavioral therapy techniques.",
+    "items": ["Coping Toolbox", "CBT Fundamentals"],
+    "links": ["/coping-strategies", "/cbt"]
+  },
+  {
+    "title": "Self-Care Tools",
+    "img": "https://cdn-icons-png.flaticon.com/512/11038/11038536.png",
+    "description": "Enhance your mental well-being journey with personalized tools and resources.",
+    "items": ["Mood Journal","Wellness Quiz"],
+    "links": ["/mood-tracker", "/self-assessment"]
+  },
+  {
+    "title": "Goal Planning",
+    "img": "https://cdn-icons-png.flaticon.com/512/2617/2617812.png",
+    "description": "Enhance your mental well-being journey with personalized tools and resources.",
+    "items": ["Goal Planner", "Habit Organizer"],
+    "links": ["/goal-setting", "/habit-tracker"]
+  },
+  {
+    "title": "Mental Peace",
+    "img": "https://cdn-icons-png.flaticon.com/512/788/788616.png",
+    "description": "Enhance your mental well-being journey with personalized tools and resources.",
+    "items": ["Mindful Meditation", "AI Counselor"],
+    "links": ["/guided-meditation", "/chatbot"]
+  }
+  
+]
