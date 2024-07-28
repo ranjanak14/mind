@@ -1,5 +1,5 @@
 import React from "react";
-import "./cbt.css";
+import "./cbt.css"; 
 import { Typography } from "@mui/material";
 
 const CBT = () => {

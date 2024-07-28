@@ -357,7 +357,7 @@ function GoalSetting() {
       <Typography variant="h4" component="h1" marginTop={2} align="center" gutterBottom>
         Goal Setting
       </Typography>
-      <Introduction>Set SMART goals to improve your mental well-being and track your progress over time.</Introduction>
+      <Introduction>Set goals to improve your mental well-being and track your progress over time. Keep updating your existing goals as you advance in them.</Introduction>
       <Button variant="contained" color="primary" onClick={handleOpen}>
         Create a New Goal
       </Button>

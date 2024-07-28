@@ -11,7 +11,7 @@
     {
       "category": "Learning Center",
       "items": [
-        { "path": "/coping-strategies", "text": "Coping Toolbox" },
+        { "path": "/coping-strategies", "text": "Boost Mental Health" },
         { "path": "/cbt", "text": "CBT Fundamentals" }
       ]
     },
@@ -31,7 +31,7 @@
     {
       "category": "Learning Center",
       "items": [
-        { "path": "/coping-strategies", "text": "Coping Toolbox" },
+        { "path": "/coping-strategies", "text": "Boost Mental Health" },
         { "path": "/cbt", "text": "CBT Fundamentals" }
       ]
     },

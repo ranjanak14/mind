@@ -133,7 +133,7 @@ function GoalsList({}) {
                 <Typography color="textSecondary">{goal.description}</Typography>
               </Grid>
               <Grid item xs={12} sm={6}>
-                <Typography variant="subtitle1">SMART Goal Checklist:</Typography>
+                <Typography variant="subtitle1">Goal Checklist:</Typography>
                 <List dense>
                   <EditGoalModal open={isEditModalOpen} handleClose={handleCloseEditModal} goalId={editGoalId} />
                   <UpdateProgressModal open={updateProgressModalOpen} handleClose={handleCloseUpdateProgressModal} goalId={updateGoalId} />

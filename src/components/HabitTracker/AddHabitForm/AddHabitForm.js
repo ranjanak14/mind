@@ -7,7 +7,7 @@ import {
 import Button from "@mui/material/Button";
 import TextField from "@mui/material/TextField";
 import { FormControl } from "@mui/material";
-
+// import { Box, Typography, Button } from "@mui/material";
 const AddHabitForm = (props) => {
     const [newHabit, setNewHabit] = useState("");
     const user = useSelector((state) => state.auth);
@@ -44,6 +44,7 @@ const AddHabitForm = (props) => {
 
     return (
         <FormControl
+        
             sx={{
                 m: 1,
                 flexDirection: { xs: "column", sm: "row" },
@@ -73,6 +74,7 @@ const AddHabitForm = (props) => {
                 Add Habit
             </Button>
         </FormControl>
+              
     );
 };
 

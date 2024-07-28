@@ -17,13 +17,12 @@ const app = firebase.initializeApp({
   // databaseUrl: "https://mind-292e4-default-rtdb.firebaseio.com/"
   apiKey: "AIzaSyCCVYGZCvykq5-pFsIVsnRJBag4sPvB6Pk",
   authDomain: "wellnesscompass-7abf4.firebaseapp.com",
-  databaseURL: "https://wellnesscompass-7abf4-default-rtdb.firebaseio.com",
   projectId: "wellnesscompass-7abf4",
   storageBucket: "wellnesscompass-7abf4.appspot.com",
   messagingSenderId: "504576803653",
   appId: "1:504576803653:web:cbcdba06a9bff79ed6b42c",
   measurementId: "G-D2HTZM3GM9",
-  // databaseUrl: "https://wellnesscompass-7abf4-default-rtdb.firebaseio.com"
+  databaseURL: "https://wellnesscompass-7abf4-default-rtdb.firebaseio.com",
 });
 
 // Initialize Firebase

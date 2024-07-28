@@ -38,6 +38,7 @@ function NewGoalModal({ open, handleClose }) {
   const goalsRef = firebase.firestore().collection("users").doc(uid).collection("goals");
 
   const handleSave = async () => {
+    if (goalTitle.trim() !== "" && description.trim() !== "") {
     const newGoal = {
       title: goalTitle,
       description,
@@ -48,6 +49,7 @@ function NewGoalModal({ open, handleClose }) {
 
     await saveGoal(newGoal);
     handleClose();
+  }
   };
 
   const saveGoal = async (goal) => {
@@ -67,7 +69,7 @@ function NewGoalModal({ open, handleClose }) {
             <TextField label="Description" multiline rows={4} value={description} onChange={(e) => setDescription(e.target.value)} />
           </StyledFormControl>
           <StyledFormControl>
-            <FormLabel component="legend">SMART Goal Checklist</FormLabel>
+            <FormLabel component="legend">Goal Checklist</FormLabel>
             <FormGroup>
               {Object.keys(smartGoal).map((key) => (
                 <FormControlLabel

@@ -131,7 +131,7 @@ const Join = () => {
           onChange={(e) => setConfirmPassword(e.target.value)}
         />
         <StyledButton variant="contained" type="submit">
-          Join
+          Register
         </StyledButton>
       </Form>
     </Container>
