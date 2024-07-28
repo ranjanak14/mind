@@ -3,10 +3,6 @@
 ## Overview
 A comprehensive web application that offers resources and tools to aid users in managing their mental well-being and wellbeing.
 
-**Demo Login Credentials:**
-- Username: demo@example.com
-- Password: demo1234
-
 ## Features
 
 - **Homepage**: Overview of available features.
@@ -15,8 +11,6 @@ A comprehensive web application that offers resources and tools to aid users in 
 - **Peer Chat**: Forums for peer support and shared experiences.
 - **Memory Booster**: Interactive game to boost memory and focus.
 - **Creative Canvas**: Therapeutic art tool for expression and stress relief.
-- **Coping Toolbox**: Resources on coping mechanisms for managing stress and anxiety.
-- **CBT Fundamentals**: Introduction to cognitive-behavioral therapy techniques.
 - **Goal Planner**: Personalized goal setting and progress tracking.
 - **Wellness Quiz**: Mental Well-being self-assessment tools and quizzes.
 - **Habit Organizer**: Habit management and tracking.
